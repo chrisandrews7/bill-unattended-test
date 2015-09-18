@@ -17,8 +17,8 @@ The development server is setup using Webpack with hot loader.
 ```
 > npm start
 
-//then visit
-http://localhost:3000/webpack-dev-server/
+# then visit
+# http://localhost:3000/webpack-dev-server/
 ```
 
 ### Production
@@ -38,7 +38,7 @@ Unit tests are run using Jest.
 > npm test
 ```
 
-### Technologies
+## Technologies
 
 - [React](http://facebook.github.io/react/)
 - [React-Router](https://github.com/rackt/react-router)
